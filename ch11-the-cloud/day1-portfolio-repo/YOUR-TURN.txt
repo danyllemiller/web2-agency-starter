@@ -1,0 +1,24 @@
+Chapter 11 · Day 1 · Labs 1 and 2
+Move this folder to your Desktop and rename it portfolio-repo.
+Everything is built except the js folder. That part is yours.
+
+LAB 1 (Milestone 1) - you write the two blank lines:
+  cd ~/Desktop/portfolio-repo
+  ______________        <- make a folder called js
+  ______________        <- create the file js/main.js
+  ls -R                 <- compare with the target tree below
+
+Target tree:
+  .:  YOUR-TURN.txt  assets  css  index.html  js
+  ./assets:  logo.svg
+  ./css:  style.css
+  ./js:  main.js
+
+LAB 2 (Milestone 2) - we run these together first (given):
+  git config --global user.name "Your Name"
+  git config --global user.email "you@example.com"
+  git init
+Then you write:
+  ______________        <- stage every file
+  git commit -m "______________________"   <- say what changed
+Make 3 commits. Your partner checks git log --oneline.

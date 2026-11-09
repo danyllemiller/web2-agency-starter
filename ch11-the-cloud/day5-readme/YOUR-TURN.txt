@@ -1,0 +1,7 @@
+Chapter 11 · Day 5 · Milestone 4
+Copy README.md into your portfolio-repo. Everything is written except
+the Hosting Recommendation section. Fill in the three ______ lines,
+then (given):
+  git add README.md
+  git commit -m "Add hosting recommendation to README"
+  git push

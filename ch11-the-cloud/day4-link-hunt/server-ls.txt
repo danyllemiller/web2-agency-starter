@@ -1,0 +1,3 @@
+$ ls -R /var/www/locallegends
+.:      about.html   contact.html   images   index.html   menu.html
+./images:   logo.svg

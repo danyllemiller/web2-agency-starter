@@ -1,0 +1,5 @@
+/* PixelPioneers portfolio: starter styles (already done for you) */
+body { font-family: system-ui, sans-serif; margin: 0; line-height: 1.5; color: #1b2330; }
+header, main, footer { padding: 1rem 1.5rem; }
+header { background: #1f6f8b; color: #fff; }
+header nav a { color: #fff; margin-right: 1rem; }
